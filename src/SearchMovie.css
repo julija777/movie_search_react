@@ -1,0 +1,33 @@
+.form {
+    display:grid;
+}
+
+.label {
+    font-size: 1.2rem;
+    margin-bottom: 0.2rem;
+    text-transform: uppercase;
+}
+
+.input {
+    font-size: 1.6rem;
+    padding: 0.5rem 2rem;
+    line-height: 2.8rem;
+    border: 1px solid rgba(119, 235, 125, 0.75);
+    border-radius: 20px;
+    margin-bottom: 1rem;
+}
+
+.button {
+    background-color: rgba(61, 108, 201, 0.75);
+    color: white;
+    padding: 1rem 2rem;
+    border: 1px solid rgba(119, 235, 125, 0.75);
+    border-radius: 20px;
+    font-size: 1.4rem;
+    cursor: pointer;
+    transition: background-color 250ms;
+}
+
+.button:hover {
+    background-color: rgba(58, 226, 114, 0.85);
+}
