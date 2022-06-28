@@ -1,6 +1,6 @@
 import React, {useState} from "react";
-import css from "./SearchMovie.css";
 import MovieCard from "./MovieCard";
+import css from "./SearchMovie.css";
 
 export default function SearchMovie(){
     const [query, setQuery] = useState('');
