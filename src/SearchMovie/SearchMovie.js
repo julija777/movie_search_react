@@ -1,6 +1,8 @@
 import React, {useState} from "react";
-import MovieCard from "./MovieCard";
-import css from "./SearchMovie.css";
+import MovieCard from "../MovieCard/MovieCard";
+// eslint-disable-next-line no-unused-vars
+import css from "./index.css";
+
 
 export default function SearchMovie(){
     const [query, setQuery] = useState('');

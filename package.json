@@ -15,6 +15,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "homepage" : "http://myname.github.io/myapp",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

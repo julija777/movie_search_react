@@ -1,5 +1,6 @@
 import React from "react";
-import css from "./MovieCard.css";
+// eslint-disable-next-line no-unused-vars
+import css from "./index.css"
 
 export default function MovieCard({movie}) {
     return (

@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import SearchMovie from './SearchMovie';
+import SearchMovie from './SearchMovie/SearchMovie';
 
 
 function App() {
